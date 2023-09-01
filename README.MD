@@ -1,6 +1,10 @@
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
 
-**接毕业设计和论文**
+#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+
+**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
+
+
 
 **博客地址：
 [https://blog.csdn.net/2303_76227485/article/details/131705456](https://blog.csdn.net/2303_76227485/article/details/131705456)**
@@ -103,7 +107,4 @@ mmtax-system：service，dao，domain以及mapper文件存放模块
 打包：使用IDEA开发工具打包时，由于使用的是springboot，无需打包成war包，直接打包成jar包即可。点击右侧工具栏maven-->mmtax-->lifecyle-->clean-->install等待打包完成，
 发布服务的时候，将mmtax-admin目录下target文件夹中的mmtax-admin.jar发布到服务器即可
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
-
-**接毕业设计和论文**
 
